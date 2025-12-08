@@ -1,0 +1,9 @@
+names:
+  0: Agua
+  1: Veg_Densa
+  2: Veg_Rasteira
+  3: Solo
+path: "C:\\Users\\renat\\OneDrive\\Mestrado em Contabilidade\\2025\\2025.2c Vis\xE3\
+  o Computacional\\VC_TF\\Yolo_dataset_Yolo_treino"
+train: train/images
+val: val/images
